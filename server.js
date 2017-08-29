@@ -44,5 +44,3 @@ fs.readFile('listings.json', 'utf8', function(err, data) {
     then start the server. 
    */
 });
-
-//testing git
